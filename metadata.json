@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Inteligencia Artificial",
+  "description": "Plataforma interactiva y educativa de Inteligencia Artificial, Machine Learning y Ciencia de Datos con simuladores, red neuronal visual, dashboard y terminal CLI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
